@@ -1,8 +1,8 @@
 let hora = 14;
 if( hora<= 12) {
 
-    console.log('bom dia')
+    console.log("bom dia");
 }
 else {
-console
+    console.log("boa tarde");
 }
