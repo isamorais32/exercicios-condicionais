@@ -1,12 +1,12 @@
 let temperatura = 29;
-frio = 18;
-Agradavel = 28;
-Quente = 40;
+let frio = 18;
+let Agradavel = 28;
+let Quente = 40;
 
-if(temperatura <= Frio){
+if(temperatura <= frio){
     console.log("Esta frio");
 }
-else if(temperatura > Frio && temperatura <= Agradavel){
+else if(temperatura > frio && temperatura <= Agradavel){
     console.log("Esta agradavel");
 }
 else{

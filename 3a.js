@@ -1,9 +1,10 @@
-let nota = 75
-x = 100/3
+let nota = 75;
+let x = 100;
+
 
 A= x + x + x;
 B= x+x; 
-C= X;
+C= x;
 
  
 if(nota >= A){

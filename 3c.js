@@ -10,10 +10,10 @@ if (dia_da_semana == 1) {
     console.log ("terca feira")
 }else if ( dia_da_semana == 4 ){
     console.log ( "quarta feira")
-} else if(dia === 5){
+} else if(dia_da_semana  === 5){
     console.log("Quinta - Feira");
 }
-else if(dia === 6){
+else if(dia_da_semana === 6){
     console.log("Sexta - Feira");
 }
 else{
